@@ -1,6 +1,6 @@
 # Rock in the Shoe (OpenMW)
 
-Based on real life story. Story about a minor inconvenience.
+Based on the real life story. Story about a minor inconvenience.
 
 <p align="center">
 <img src="https://staticdelivery.nexusmods.com/images/100/80257188-1780531332.png" alt="Mollython 2026">
