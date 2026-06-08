@@ -1,0 +1,3 @@
+PLAYER: scripts/RockInTheShoe/player.lua
+
+MENU: scripts/RockInTheShoe/settingsMenu.lua
