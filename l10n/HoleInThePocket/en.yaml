@@ -1,0 +1,16 @@
+page_name: Hole in the Pocket
+page_description: Makes you drop items from your inventory from time to time.
+
+settings_groupName: Settings
+minDelay_name: Min Item Drop Delay (sec)
+maxDelay_name: Max Item Drop Delay (sec)
+countMode_name: Item Drop Count Mode
+countMode_1: One at a time
+countMode_1_max: From 1 to a full stack
+countMode_max: Full stack at a time
+dropEquipped_name: Drop Equipped Items
+dropKeys_name: Drop Keys
+sfxVolume_name: SFX Volume
+sfxVolume_desc: |
+  Default volume is 1.
+  Set it to 0 or lower to disable.

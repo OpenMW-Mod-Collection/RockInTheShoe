@@ -1,0 +1,5 @@
+PLAYER: scripts/HoleInThePocket/player.lua
+GLOBAL: scripts/HoleInThePocket/global.lua
+
+MENU: scripts/HoleInThePocket/settingsMenu.lua
+GLOBAL: scripts/HoleInThePocket/settingsGlobal.lua
