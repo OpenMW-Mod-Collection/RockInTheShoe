@@ -1,0 +1,11 @@
+msg_bootsSafe: A small rock rolls out of your boot.
+
+page_name: Rock in the Shoe
+page_description: Adds a chance to get a rock in your shoe.
+
+settings_groupName: Settings
+rockChance_name: Rock Chance (1 in N)
+rockChance_desc: Rolled every step when you have any boots equipped.
+rockDamage_name: Rock Damage
+rockDamageInterval_name: Rock Damage Interval in Steps
+rockDamageInterval_desc: Includes walking, running and jumping.

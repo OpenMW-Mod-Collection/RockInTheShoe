@@ -1,4 +1,4 @@
-# Hole in the Pocket (OpenMW)
+# Rock in the Shoe (OpenMW)
 
 Based on the real life story. Story about a minor inconvenience.
 
@@ -6,6 +6,8 @@ Based on the real life story. Story about a minor inconvenience.
 <img src="https://staticdelivery.nexusmods.com/images/100/80257188-1780531332.png" alt="Mollython 2026">
 </p>
 
-Every 1-5 minutes you drop on the ground a random amount of a random item from your inventory. Works even if you don't have any pockets, somehow.
+Every time you step, there's a 1 in 500 chance to get a rock in your boots. Walking with rock in your boots causes you to take 1 damage every 4 steps.
+
+To remove a rock from your boot, take off your current shoes or swap them with a different pair.
 
 Configurable as always.
